@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../providers/shift_provider.dart';
 import '../../theme/app_theme.dart';
-import '../../widgets/shift_card.dart';
 import '../../widgets/shift_details_dialog.dart';
 
 class ShiftClaimingScreen extends StatefulWidget {

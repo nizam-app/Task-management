@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:intl/intl.dart';
 import '../../providers/shift_provider.dart';
 import '../../theme/app_theme.dart';
-import '../../widgets/shift_card.dart';
+
 
 class StaffDashboardScreen extends StatefulWidget {
   const StaffDashboardScreen({super.key});

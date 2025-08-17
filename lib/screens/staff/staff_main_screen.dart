@@ -8,8 +8,7 @@ import '../../theme/app_theme.dart';
 import 'staff_dashboard_screen.dart';
 import 'shift_claiming_screen.dart';
 import 'clock_in_out_screen.dart';
-import 'staff_messaging_screen.dart';
-import 'staff_profile_screen.dart';
+
 
 class StaffMainScreen extends StatefulWidget {
   const StaffMainScreen({super.key});

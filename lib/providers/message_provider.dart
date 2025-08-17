@@ -1,5 +1,4 @@
 import 'package:flutter/foundation.dart';
-import '../models/message_model.dart';
 import '../utils/mock_data.dart';
 
 class MessageProvider extends ChangeNotifier {

@@ -1,6 +1,5 @@
 import '../models/shift_model.dart';
 import '../models/staff_model.dart';
-import '../models/message_model.dart';
 
 class MockData {
   static List<Shift> get shifts => [
